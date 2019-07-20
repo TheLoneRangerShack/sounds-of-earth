@@ -1,53 +1,29 @@
-D Major Scale
-D E F# G A B C#
+## Schema {NOTE}{OCTAVE}{DURATION AS FRACTION OF HALF NOTE}
+#Verse
+B30.250 C40.125 D41.000
+B30.125 A30.250 B30.125 G31.125
+B30.250 B30.125 A30.250 G30.125 E0.750
+B30.25 B30.125 A31.125
 
-Pick octave: 3?
+#Chorus
+D40.375 D40.375 D40.375 D40.250 E40.125 A30.250 A30.125 A30.250 A30.125 A30.750
+A30.250 A30.125 A30.250 A30.125 A30.750
+G30.250 G30.125 G30.250 G30.125 G30.750
 
-Note transcription
+Verse x4
+Chorus x2
 
-D3 A3 B3 F#2 G2 D2 G2 A3 F#3 E3 D3 C#3
-B3 A3 B3 C#3 D3 C#3 B3 A3 G2 F#2 G2 E2
-D2 F#2 A3 G2 F#2 D2 F#2 E2 D2 B3(?) D2 A3 G2 B3 A3 G2
-F#2 D2 E2 C#3 D3 F#3 A4 A3 B3 G2 A3 F#2 D2 D3 D3(?) C#3
+Verse x2
+Chorus x2
 
-D3 C#3 D3 D2 C#2 A3 E2 F#2 D2 D3 C#3 B3 C#3 F#3 A4 B4 G3 F#3 E3 G3 F#3 E3 D3 C#3
-B3 A3 G2 F#2 E2 G2 F#2 E2 D2 E2 F#2 G2 A3 E2 A3 G2 F#2 B3 A3 G2 A3 G2 F#2 E2
-D2 B3(?) B3 C#3 D3 C#3 B3 A3 G2 F#2 E2 B3 A3 B3 A3 G2 F#2 F#3 E3
-D3 F#3 B3 A3 B3 C#3 D3 D2 C#2 B3 D3 D3 D3
-
-D3 G3 E3 A4
-
-Repeat x2
-	A4 F#3 G3 A4 F#3 G3 A4 A3 B3 C#3 D3 E3 F#3 G3
-	F#3 D3 E3 F#3 F#2 G2 A3 B3 A3 G2 A3 F#2 G2 A3 G2 B3 A3 G2 F#2 E2 F#2 E2 D2 E2 F#2 G2 A3 B3
-	G2 B3 A3 B3 C#3 D3 A3 B3 C#3 D3 E3 F#3 G3 A4 F#3 D3 E3 F#3 E3 D3 E3 A3 B3 E3 F#3 E3 D3 C#3
-	D3 B3 C#3 D3 D2 E2 F#2 G2 F#2 E2 F#2 D3 C#3 D3 B3 D3 C#3 B3 A3 G2 A3 G2 F#2 G2 A3 B3 C#3 D3
-	B3 D3 C#3 D3 C#3 B3 C#3 D3 E3 D3 C#3 D3 B3 C#3
-End Repeat
-
-Repeat x2
-	Repeat x2
-		F#2 F#3 F#3 G3 F#3 E3
-		D3 D3 D3 E3 D3 C#3 B3 D3 D3 C#3 B3 C#3 A3 A3 A3 A4 A4 B4 A4 G3
-		F#3 F#3 F#3 G3 F#3 E3 D3 C#3 B3 C#3 A3 A3 G2 D3 C#3 C#3
-	EndRepeat
-
-	F#3 E3 D3 C#3 B3 A3 B3 C#3
-	D3 C#3 B3 A3 B3 D3 F#3 D3 B3 C#3 
-EndRepeat
-
-D
+Verse x2
+Chorus x4
 
 
-####Timing Notes
-Half notes going at roughly 64 notes per 28 seconds 2.28 per second
-Quarter notes going at roughly 80 notes per 17.5 seconds 4.57 per second
-Double notes going at roughly 24 notes per 42 seconds 0.57 per second
+##Observations
+Pause between notes: 50ms
 
-####Duration Choices
-Double note: 1760 ms
-Full note: 880 ms
-Half note: 440 ms
-Quarter note: 220 ms
-
-
+1464 ms for the full note
+732 ms for the half note
+366 ms for the quarter note
+183 ms for the eighth note
